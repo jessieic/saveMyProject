@@ -1,0 +1,16 @@
+authorApplyProof.php	已修改	www.jjwxc/lib/views/guanli/authorApplyProof/authorApplyProof.php	
+vipchapter_apply_create_history.php	已添加	www.jjwxc/exec/vipchapter_apply_create_history.php	
+AuthorApplyProof.php	已修改	www.jjwxc/lib/Net/Database/Selfnovel/AuthorApplyProof.php	
+ClearingBank.php	已修改	www.jjwxc/lib/Net/Pay/ClearingBank.php	
+applyProof.php	已修改	www.jjwxc/backend/applyProof.php	
+authorApplyProof.php	已修改	www.jjwxc/lib/Net/Controller/authorApplyProof.php	
+GetNumrightbasicinfoByAuthorid.php	已修改	www.jjwxc/lib/Net/Cache/GetNumrightbasicinfoByAuthorid.php
+
+www.jjwxc/backend/applyProof.php	
+www.jjwxc/guanli/authorApplyProof.php
+www.jjwxc/lib/Net/Controller/authorApplyProof.php
+
+www.jjwxc/lib/Net/Database/Selfnovel/AuthorApplyProof.php
+www.jjwxc/lib/loginlist.php
+www.jjwxc/lib/views/guanli/authorApplyProof/authorApplyProof.php
+www.jjwxc/templates/vip/incomeProof.tpl
